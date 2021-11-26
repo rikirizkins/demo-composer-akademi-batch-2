@@ -1,0 +1,21 @@
+{
+    "name": "rikirizkins/demo-composer-akademi-batch-2",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "rikirizkins\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "rikirizkins",
+            "email": "riki.rizki@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
